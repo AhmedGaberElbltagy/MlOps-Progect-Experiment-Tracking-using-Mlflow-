@@ -1,14 +1,14 @@
 aliases: []
-creation_timestamp: 1747480238694
+creation_timestamp: 1747481690755
 current_stage: None
 description: ''
-last_updated_timestamp: 1747480238694
+last_updated_timestamp: 1747481690755
 name: tracking quick start
-run_id: 9e7ae2a6e2a3461da91d59aeab9d7ef5
+run_id: 745cadda84e94c86a9e67536852868e8
 run_link: ''
-source: mlflow-artifacts:/189544777415441388/9e7ae2a6e2a3461da91d59aeab9d7ef5/artifacts/iris_model
+source: mlflow-artifacts:/655167709060330260/745cadda84e94c86a9e67536852868e8/artifacts/iris_model
 status: READY
 status_message: null
-storage_location: mlflow-artifacts:/189544777415441388/9e7ae2a6e2a3461da91d59aeab9d7ef5/artifacts/iris_model
+storage_location: mlflow-artifacts:/655167709060330260/745cadda84e94c86a9e67536852868e8/artifacts/iris_model
 user_id: null
 version: 1

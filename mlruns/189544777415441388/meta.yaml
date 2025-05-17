@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/189544777415441388
-creation_time: 1747480190480
-experiment_id: '189544777415441388'
-last_update_time: 1747480190480
-lifecycle_stage: active
-name: logistic-regression-iris

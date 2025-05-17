@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/655167709060330260/070680f6ffe24384b23ffc993af2f0ae/artifacts
+end_time: 1747481701145
+entry_point_name: ''
+experiment_id: '655167709060330260'
+lifecycle_stage: active
+run_id: 070680f6ffe24384b23ffc993af2f0ae
+run_name: polite-asp-665
+run_uuid: 070680f6ffe24384b23ffc993af2f0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747481696692
+status: 3
+tags: []
+user_id: ahmedgaber
