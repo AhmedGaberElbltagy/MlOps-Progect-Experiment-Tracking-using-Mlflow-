@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/655167709060330260/65853cec63ae43b2b64e8fab5ea530da/artifacts
+end_time: 1747561993498
+entry_point_name: ''
+experiment_id: '655167709060330260'
+lifecycle_stage: active
+run_id: 65853cec63ae43b2b64e8fab5ea530da
+run_name: redolent-loon-780
+run_uuid: 65853cec63ae43b2b64e8fab5ea530da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747561985156
+status: 3
+tags: []
+user_id: ahmedgaber

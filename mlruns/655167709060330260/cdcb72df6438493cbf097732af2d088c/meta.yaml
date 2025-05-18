@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/655167709060330260/cdcb72df6438493cbf097732af2d088c/artifacts
+end_time: 1747561766165
+entry_point_name: ''
+experiment_id: '655167709060330260'
+lifecycle_stage: active
+run_id: cdcb72df6438493cbf097732af2d088c
+run_name: fearless-sponge-141
+run_uuid: cdcb72df6438493cbf097732af2d088c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747561759310
+status: 3
+tags: []
+user_id: ahmedgaber

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/655167709060330260/00c6ba5c070f4c069d053ae07ea4e812/artifacts
+end_time: 1747561774473
+entry_point_name: ''
+experiment_id: '655167709060330260'
+lifecycle_stage: active
+run_id: 00c6ba5c070f4c069d053ae07ea4e812
+run_name: gentle-cub-716
+run_uuid: 00c6ba5c070f4c069d053ae07ea4e812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747561769365
+status: 3
+tags: []
+user_id: ahmedgaber
